@@ -1,0 +1,2 @@
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\obj\Debug\SkyTechnicalTest.Api.csprojResolveAssemblyReference.cache
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\obj\Debug\SkyTechnicalTest.dll
