@@ -1,4 +1,5 @@
 ﻿using Nancy;
+using SkyTechnicalTest.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace SkyTechnicalTest.Modules
         {
             Get["/"] = parameters =>
             {
-                return Response.AsJson(Bill)
+                return Response.AsJson(new Bill());
             };
         }
     }

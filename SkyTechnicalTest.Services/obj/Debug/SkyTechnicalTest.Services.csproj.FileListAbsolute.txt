@@ -1,0 +1,13 @@
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Services.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Services.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\obj\Debug\SkyTechnicalTest.Services.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\obj\Debug\SkyTechnicalTest.Services.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\obj\Debug\SkyTechnicalTest.Services.csprojResolveAssemblyReference.cache
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Domain.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Repository.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Domain.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Repository.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\DataStore\1.json
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Services\bin\Debug\SkyTechnicalTest.Services.dll.config

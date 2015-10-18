@@ -1,0 +1,5 @@
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Domain\bin\Debug\SkyTechnicalTest.Domain.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Domain\bin\Debug\SkyTechnicalTest.Domain.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Domain\obj\Debug\SkyTechnicalTest.Domain.csprojResolveAssemblyReference.cache
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Domain\obj\Debug\SkyTechnicalTest.Domain.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\SkyTechnicalTest.Domain\obj\Debug\SkyTechnicalTest.Domain.pdb

@@ -1,2 +1,12 @@
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\SkyTechnicalTest.dll.config
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\SkyTechnicalTest.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\SkyTechnicalTest.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\Nancy.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\Nancy.Hosting.Aspnet.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\SkyTechnicalTest.Domain.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\SkyTechnicalTest.Domain.pdb
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\Nancy.xml
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\bin\Nancy.Hosting.Aspnet.xml
 C:\Code\SkyTechnicalTest\SkyTechnicalTest\obj\Debug\SkyTechnicalTest.Api.csprojResolveAssemblyReference.cache
 C:\Code\SkyTechnicalTest\SkyTechnicalTest\obj\Debug\SkyTechnicalTest.dll
+C:\Code\SkyTechnicalTest\SkyTechnicalTest\obj\Debug\SkyTechnicalTest.pdb
