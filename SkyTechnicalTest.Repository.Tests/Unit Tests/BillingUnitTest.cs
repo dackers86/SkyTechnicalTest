@@ -24,7 +24,6 @@ namespace SkyTechnicalTest.Repository.Tests
             Assert.NotNull(actual.Statement.Due);
         }
 
-
         [Fact]
         void WhenAFileDoesNotExist_ThenAnEmptyObjectShouldBeReturned()
         {

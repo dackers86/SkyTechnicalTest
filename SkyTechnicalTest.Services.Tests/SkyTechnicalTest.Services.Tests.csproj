@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SkyTechnicalTest.Services.Tests</RootNamespace>
     <AssemblyName>SkyTechnicalTest.Services.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>db13708d</NuGetPackageImportStamp>
     <TargetFrameworkProfile />
@@ -35,6 +35,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FluentValidation, Version=5.6.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentValidation.5.6.2.0\lib\Net45\FluentValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="NSubstitute, Version=1.9.1.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca, processorArchitecture=MSIL">
       <HintPath>..\packages\NSubstitute.1.9.1.0\lib\net45\NSubstitute.dll</HintPath>
       <Private>True</Private>
@@ -82,6 +86,10 @@
     <ProjectReference Include="..\SkyTechnicalTest.Services\SkyTechnicalTest.Services.csproj">
       <Project>{89816bfd-a18a-4d61-9baf-b5a520bd5534}</Project>
       <Name>SkyTechnicalTest.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SkyTechnicalTest.Validation\SkyTechnicalTest.Validation.csproj">
+      <Project>{1952666c-c1f8-4049-ba38-36ade62053e2}</Project>
+      <Name>SkyTechnicalTest.Validation</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

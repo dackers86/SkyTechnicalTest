@@ -41,7 +41,14 @@
   <ItemGroup>
     <Compile Include="Interfaces\IBillingService.cs" />
     <Compile Include="Models\Bill.cs" />
+    <Compile Include="Models\BuyAndKeep.cs" />
+    <Compile Include="Models\Call.cs" />
+    <Compile Include="Models\CallCharges.cs" />
+    <Compile Include="Models\Package.cs" />
     <Compile Include="Models\Period.cs" />
+    <Compile Include="Models\Rental.cs" />
+    <Compile Include="Models\SkyStore.cs" />
+    <Compile Include="Models\Subscription.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Statement.cs" />
   </ItemGroup>
